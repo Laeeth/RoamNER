@@ -2,7 +2,7 @@
 _Testing an implementation of Named-Entity Recognition integration for Roam Research_
 
 
-![Front Page Image](https://github.com/hmprt/RoamNER/master/img/FrontPage.jpg)
+![Sample output in Roam Research](https://github.com/hmprt/RoamNER/blob/master/img/newFrontPage.png)
 Some sample output from RoamNER_V1  
 
 **Check out the public RoamNER_V1 knowledge graph [here](https://roamresearch.com/#/app/roamNER_test)**
